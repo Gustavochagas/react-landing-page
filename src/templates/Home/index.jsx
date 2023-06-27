@@ -1,7 +1,9 @@
+import * as S from './styles';
+
 export const Home = () => {
   return (
-    <div>
+    <S.Wrapper>
       <h1>Home</h1>
-    </div>
+    </S.Wrapper>
   );
 };
